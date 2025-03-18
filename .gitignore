@@ -17,3 +17,7 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/media
+/static
+db.sqlite3
+/venv
